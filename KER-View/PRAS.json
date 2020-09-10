@@ -1,1 +1,13 @@
-{}
+{
+  "embeddings": [
+    {
+      "tensorName": "Risk Assessment of Miscarriage",
+      "tensorShape": [
+        24877,
+        64
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/HeglerTissot/hextrato/master/KER-View/PRAS-embeddings.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/HeglerTissot/hextrato/master/KER-View/PRAS-metadata.tsv"
+    }
+  ]
+}
